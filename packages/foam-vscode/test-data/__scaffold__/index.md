@@ -7,3 +7,5 @@ This file is intentionally missing the link reference definitions
 [[second-document]]
 
 [[file-without-title]]
+
+![[style-node-by-type.png]]
